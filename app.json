@@ -1,7 +1,7 @@
 {
-  "name": "Catuserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Jisan ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "name": "Google Helper",
+  "description": "A Helper deployer",
+  "logo": "https://te.legra.ph/file/5957a23ca8b93516760b5.jpg",
   "keywords": [
     "plugin",
     "modular",
